@@ -1,4 +1,4 @@
-# agoda-home-test
+# home-test
 
 ## Prepare your machine
 1. Install python 3.x
